@@ -35,3 +35,14 @@ Welcome to my Python Projects repository! This collection showcases a variety of
    ```bash
    git clone https://github.com/mangal-singh001/Python_Projects.git
    cd Python_Projects
+
+
+
+🔗 Connect with Me
+
+GitHub: mangal-singh001
+
+LinkedIn: [https://www.linkedin.com/in/mangal-singh123/]
+
+
+✍️ Feel free to fork this repo or suggest improvements!
